@@ -19,3 +19,5 @@ Werkzeug==3.0.4
 wrapt==1.16.0
 Flask-Cors==5.0.0
 SQLAlchemy==2.0.36
+pyjwt==2.9.0
+requests==2.31.0
